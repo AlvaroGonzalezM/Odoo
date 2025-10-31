@@ -52,6 +52,17 @@ CMD ["bash","-lc", "\
 
 ```
 
+# Rellenamos el ficjero __manifest__.py:
+
+```
+{
+    "name": "Dummy Module",
+    "version": "1.0",
+    "summary": "Módulo vacío de prueba",
+    "installable": True,
+}
+```
+
 # Render
 
 - Abrimos una cuenta en render con la cuenta de GitHub
