@@ -1,7 +1,6 @@
 # Creación del repositorio GitHub
 
 Empezamos creando un nuevo repositorio y creando la jerarquia de carpetas y de ficheros.
-La jerarquia es la siguiente:
 
 Estructura:
   - /extra-addons
