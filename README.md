@@ -3,18 +3,14 @@
 Empezamos creando un nuevo repositorio y creando la jerarquia de carpetas y de ficheros.
 La jerarquia es la siguiente:
 
-En la rama principal:
+Estructura:
   - /extra-addons
+      - /dummy_module
+        - __init__.py
+        - __manifest__.py
+      - .gitkeep
   - Dockerfile
   - README.md
-
-En la rama /extra-addons:
-- /dummy_module
-- .gitkeep
-
-En la rama /dummy_module:
-- __init__.py
-- __manifest__.py
 
 # Rellenamos el ficjero Dockerfile:
 
