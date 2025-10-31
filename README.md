@@ -9,7 +9,6 @@ Estructura:
         - __manifest__.py
       - .gitkeep
   - Dockerfile
-  - README.md
 
 # Rellenamos el ficjero Dockerfile:
 
