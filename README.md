@@ -16,12 +16,12 @@ En la rama /dummy_module:
 __init__.py
 __manifest__.py
 
-- Rellenamos el ficjero Dockerfile:
+# Rellenamos el ficjero Dockerfile:
 
 - Imagen base Odoo 17
 FROM odoo:17
 
-# (Opcional) módulos propios
+- (Opcional) módulos propios
 COPY ./extra-addons /mnt/extra-addons
 
 - Puerto HTTP de Odoo
