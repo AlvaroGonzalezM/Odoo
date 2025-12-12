@@ -1,1 +1,0 @@
-# módulo vacío de prueba
